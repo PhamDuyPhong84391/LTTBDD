@@ -1,8 +1,8 @@
 void main() {
   Map<String, dynamic> a = {
-    "Tên": "Dương",
+    "Tên": "Phong",
     "Địa chỉ": "Thủy Nguyên, Hải Phòng",
-    "tuổi": 21,
+    "Tuổi": 21,
     "Quốc tịch": "Việt Nam"
   };
 
